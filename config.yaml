@@ -1,0 +1,10 @@
+server_settings:
+  port: "8080"
+  host: "localhost"
+data_base_settings:
+  addr: "localhost:5432"
+  user: "postgres"
+  password: "1"
+  db_name: "test"
+  type: "postgres"
+  logsql: "true"
